@@ -8,11 +8,11 @@
 8. Bananas
 9. Fruit
 10. Kitchen
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Water
+12. Comfortable
+13. Wood
+14. Running
+15. Fast
 16. Number
 17. Unit of Time
 18. Different Activity
