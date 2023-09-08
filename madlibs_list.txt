@@ -13,9 +13,9 @@
 13. Wood
 14. Running
 15. Fast
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. One
+17. Year 
+18. by Driving
+19. Faster
+20. Car
+21. Ronaldo
