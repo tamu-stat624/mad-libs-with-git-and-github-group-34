@@ -1,21 +1,21 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+1. Charles
+2. giant
+3. distant
+4. white
+5. June
+6. 11
+7. apples
+8. Bananas
+9. Fruit
+10. Kitchen
+11. Water
+12. Comfortable
+13. Wood
+14. Running
+15. Fast
+16. One
+17. Year 
+18. by Driving
+19. Faster
+20. Car
+21. Ronaldo
